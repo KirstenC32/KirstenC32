@@ -12,7 +12,7 @@
 *The following graph shows the various items and the count of those items sales. This gives insight in to what categories of items produce the most/least sales as well as providing quick visibility of our items popularity.*
 ![Count of Item Types Sales Prediction Data](https://github.com/KirstenC32/KirstenC32/assets/145694223/c7b7b0fd-1079-48bc-8833-7b0ef8b0ee7a)
 
-*The following heatmap indicates any correlations in our numerical data.* 
+*The following heatmap indicates any correlations in our numerical data This allows us to quickly identify relationships between variables.* 
 
 ![Heat Map Sales Prediction Data](https://github.com/KirstenC32/KirstenC32/assets/145694223/a6c02c03-3925-4cf7-b479-4f782a1bbdc1)
 
